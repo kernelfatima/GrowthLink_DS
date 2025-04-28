@@ -33,5 +33,17 @@ cd GrowthLink_DS
 pip install -r requirement.txt
 jupyter notebook
 
+## 🖼 Output Screenshots
+
+### Screenshot 1
+![Output 1](./output1.png)
+
+### Screenshot 2
+![Output 2](./output2.png)
+
+### Screenshot 3
+![Output 3](./output3.png)
+
+
 
 
