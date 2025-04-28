@@ -35,7 +35,7 @@ st.markdown(
 )
 
 # Load the trained model
-model = pickle.load(open('best_model.pkl', 'rb'))
+model = pickle.load(open('C:/Users/khali/OneDrive/Desktop/GrowthLink/best_model.pkl', 'rb'))
 
 # Title
 st.title('🌸 Iris Flower Species Prediction')
